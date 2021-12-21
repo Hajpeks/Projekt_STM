@@ -1,1 +1,1 @@
-# Projekt_SM
+Zdecydowaliśmy się na projekt, który zakłada regulację temperatury w danym zakresie. Użytkownik będzie miał możliwość sterowania układem zarówno w sposób fizyczny, przez potencjometr, jak i komputerowy, za pomocą terminala. Układ składać się będzie z systemu grzałki i wiatraka, które będą odpowiednio nagrzewały lub schładzały powietrze wokół czujnika ciśnienia i temperatury BMP280, a także wyświetlacza, który będzie wyświetlał temperaturę zadaną i zmierzoną, w celu ocenienia jakości działania układu i poprawności wykonania.  
